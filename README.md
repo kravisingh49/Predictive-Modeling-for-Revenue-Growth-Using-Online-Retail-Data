@@ -46,7 +46,7 @@ This project demonstrates the power of predictive modeling in the online retail 
 
 ## How to Run
 
-1. Clone this repository: `git clone https://github.com/yourusername/your-repo.git](https://github.com/kravisingh49/Predictive-Modeling-for-Revenue-Growth-Using-Online-Retail-Data.git`
+1. Clone this repository: `git clone https://github.com/kravisingh49/Predictive-Modeling-for-Revenue-Growth-Using-Online-Retail-Data.git`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `jupyter notebook Predictive_Modeling_for_Revenue_Growth_Using_Online_Retail.ipynb`
 4. Follow the instructions in the notebook to reproduce the analysis and results.
